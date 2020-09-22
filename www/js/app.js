@@ -347,7 +347,7 @@ async function bahay(){
        <tr id="kaliwang_sulat_uli">
        
         <td id="today">${jla}</td>
-        <td id="d"><span id="plus">+</span>${jna}</td>  
+        <td id="da"><span id="plus">+</span>${jna}</td>  
          <td id="d" class="d_again">${jma}</td>         
          <td id="ac">${jpa}</td>
          <td id="rec">${joa}</td>         
@@ -388,7 +388,7 @@ async function bahay(){
   });
 
   anime({
-    targets: '#d',
+    targets: '#da',
     innerHTML: [0, '<span id="plus">+</span>' +jna],
     delay: 2400,
     easing: 'linear',   

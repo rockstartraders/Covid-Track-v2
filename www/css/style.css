@@ -229,7 +229,7 @@ nav .nav-wrapper {
 #option{
     
     color: rgb(49, 48, 48);
-    font-size: 35px;
+    font-size: 25px;
     text-align: right;
     margin-top: 15px;
     margin-bottom: 12px;
@@ -373,6 +373,14 @@ nav .nav-wrapper {
 }
 
 #d{
+    color: #ff3434;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'varela_roundregular';
+}
+
+#da{
     color: #ff3434;
     font-weight: 900;
     font-size: 20px;

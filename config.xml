@@ -8,7 +8,7 @@
         @rockstartraders via GITHUB
     </author>  
     <icon src="www/icon/Covid_Track.png" />
-    <content src="index.html" />
+    <content src="index.html" />    
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarBackgroundColor" value="#FFFFFF"/>
     <access origin="*" />
