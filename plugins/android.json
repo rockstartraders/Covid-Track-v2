@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.rockstartraders.covidtrackv2"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.rockstartraders.covidtrackv2"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.rockstartraders.covidtrackv2"
+    },    
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.rockstartraders.covidtrackv2"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.rockstartraders.covidtrackv2"
+    }
+  }
+}

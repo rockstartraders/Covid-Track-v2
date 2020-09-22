@@ -1,0 +1,566 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+    
+}
+
+
+*{
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+
+.sidenav{
+    overflow-y: auto;
+}
+
+#plag_icon{
+    height: 50px;
+    width: 50px;
+    padding-right: 15px;   
+}
+
+#contact_ko{
+    height: 120px;   
+    line-height: 45px;
+}
+
+
+#about{
+   margin-top: 15px;
+   
+}
+
+#about1{
+    font-family: 'vonique_64bold';     
+    font-size: 17pt;
+    letter-spacing: 1.5px;
+    font-weight: 400;
+    color: rgb(49, 48, 48);
+    text-transform: uppercase;
+   
+}
+
+#contact{
+    font-size: 14px;
+    color: #777;
+    font-family: 'montserratsemibold';
+    letter-spacing: 1px;
+    margin-top: -35px;
+    
+}
+
+#author{
+    color: rgb(49, 48, 48);
+    text-align: left;
+    font-weight: 900;
+    font-family: 'montserratbold';
+    letter-spacing: 1px;
+    margin-top: -25px;
+    text-transform: uppercase;
+    
+    
+   
+}
+
+/* credit section */
+
+#credit{
+    line-height: 50px;
+    text-align: left;
+}
+
+
+#authora{
+    color: #777;
+    float: left;
+    font-weight: 500;
+    font-family: 'montserratsemibold';
+    letter-spacing: 1px;      
+    margin-top: -20px;
+   
+}
+
+
+#authorb{
+    color: #777;
+    float: left;
+    font-weight: 500;
+    font-family: 'montserratsemibold';
+    letter-spacing: 1px;        
+    margin-top: -30px;
+    
+}
+
+#authorc{
+    color: #777;
+    float: left;
+    font-weight: 500;
+    font-family: 'montserratsemibold';
+    letter-spacing: 1px;      
+    margin-top: -10px;
+    margin-left: -92px;
+}
+
+#authord{
+    color: #777;
+    float: left;
+    font-weight: 500;
+    font-family: 'montserratsemibold';
+    letter-spacing: 1px;      
+    margin-top: -10px;
+    margin-left: -118px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+#developer{
+    margin-top: -65px;  
+    color: rgb(49, 48, 48); 
+    font-size: 3vh;    
+    
+
+}
+
+#dev_mail{   
+    margin-top: -20px;
+    color: #777;
+    font-size: 3vh;
+
+}
+
+#name_ko{
+    margin-top: -35px;
+    color: #777;
+    font-family: 'montserratsemibold';
+    font-weight: 500;
+    font-size: 14px;
+    
+
+}
+
+#email_ko{
+
+    margin-top: -300px;
+    color: #777; 
+    font-family: 'montserratsemibold';   
+    font-size: 14px;
+
+}
+
+
+
+
+
+.navbar-fixed nav {
+   
+    height: 90px;
+  
+}
+
+
+/* nav */
+
+nav .nav-wrapper {
+  background-color: white;
+  
+  
+  
+}
+
+.fa-virus{
+    color: #f44336;
+    letter-spacing: 1.5px;
+    font-size: 30px;
+    
+}
+
+#v2{
+    text-transform: lowercase;
+    color: #e53935;
+    font-family: 'nunito_sansbold';
+    font-weight: 900;
+    letter-spacing: 1px;   
+    font-size: 14px;
+    margin-left: -7px;  
+    
+}
+
+
+#title{
+
+   font-family: 'vonique_64bold';
+    margin-top: 20px;    
+    font-size: 23pt;
+    letter-spacing: 1.5px;
+    font-weight: 400;
+    color: rgb(49, 48, 48);
+    text-transform: uppercase;
+    margin-left: 10px;   
+   
+       
+   
+}
+
+
+
+#option{
+    
+    color: rgb(49, 48, 48);
+    font-size: 35px;
+    text-align: right;
+    margin-top: 15px;
+    margin-bottom: 12px;
+    margin-left: 15px;
+}
+
+.sidenav{
+    width: 100%;
+}
+
+
+/* Overlay */
+
+.sidenav-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    height: 150vh;    
+    background-color: rgba(255, 255, 255, 0);
+    z-index: 997;
+    display: none;
+    overflow-y: auto;
+    
+}
+
+/* para sa search ito */
+
+
+/* End ng SEARCH*/
+
+/* tabs */
+
+.tabs{  /* pata bottom */
+
+    position: absolute !important;
+    bottom: 0;
+    background-color: white;
+
+   
+ 
+       
+}
+
+
+
+.tabs .indicator {
+    background-color: transparent;
+} /*Color of underline*/
+
+.tabs .tab a.active {
+    background-color: white !important;
+    color: #f44336;
+} /*Background and text color when a tab is active*/
+
+.tabs .tab a { /* kulay pag hinde active */
+    color: #777;
+ 
+}
+/* tabs */
+
+
+.material-icons{
+   margin-top: 5px;
+   font-size: 35px;
+}
+/* panulat na sa katawan */
+
+#world{
+
+    font-family: 'montserratbold';
+    font-weight: 500;
+    letter-spacing: 1.5px;   
+    font-size: 35px;
+    color: #777;
+    text-align: center;
+    margin-top: 65px;
+    text-transform: uppercase;
+
+}
+
+#mesa{
+    margin-top: 20px;
+    margin-left: 5px;
+   
+}
+
+
+
+#kaliwang_sulat {
+
+    font-family: 'montserratbold';
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 900;
+    line-height: 6px;
+    margin-right: -7px;
+    
+       
+}
+
+#kaliwang_sulat_uli{
+    font-family: 'montserratbold';   
+    font-size: 16px;
+    line-height: 6px;
+    margin-left: -6px;
+    
+}
+
+/*.progress{
+    margin-top: 70%;
+    width: 60%;
+    background-color: rgb(201, 200, 200);
+    
+}
+
+.indeterminate {
+    background-color: #f44336 !important;
+} */
+
+
+#total{
+    color: #f57f17 ;
+    font-weight: 900;
+    font-size: 22px;
+    letter-spacing: 1.2px;
+    font-family: 'varela_roundregular';
+    
+
+
+}
+
+#rec{
+    color: #689F38;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'varela_roundregular';
+}
+
+#d{
+    color: #ff3434;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'varela_roundregular';
+}
+
+
+#ac{
+    color: #777;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'varela_roundregular';
+}
+
+#today{
+    color: #009688;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'varela_roundregular';
+}
+
+
+#plus{
+
+    color: #777;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'varela_roundregular';
+    margin-left: 1px;
+
+}
+
+
+
+#time{
+    font-weight: 900;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'montserratsemibold';
+    color: #777;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+#reminder{
+
+    color: #777;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+    text-align: center;
+    
+}
+
+#back{
+    font-weight: 900;
+    margin-right: 30px;
+    margin-left: 10px;
+    color: #777;
+    display: none;
+    
+}
+
+
+#test1, #test4{
+    display: none;
+
+}
+
+.fa-viruses{
+
+    color: #f44336;
+    font-size: 40px;
+       
+}
+
+
+
+/* pang catch */
+
+#error_icon{
+    font-size: 50px;
+    margin-top: 35%;
+    color: #777;
+}
+
+#error_message{
+    margin-top: 20px;
+    color: #777;
+    font-family: 'montserratsemibold';
+    text-align: center;
+    font-weight: 900;
+    font-size: 18px;
+    letter-spacing: 1.2px;
+
+}
+
+#error_btn{
+    
+    color: white;
+    font-family: 'montserratbold';
+    letter-spacing: 1px;  
+
+
+
+}
+
+
+
+
+
+/* animation spin */
+
+
+#wit{
+    
+    font-family: 'montserratbold';
+    font-weight: 900;
+    font-size: 15px;
+    color: #777;  
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .9px;
+
+}
+
+
+.spinner {
+    
+    margin-top: 40%;
+    margin-bottom: 18px;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    text-align: center;
+    
+    -webkit-animation: sk-rotate 2.0s infinite linear;
+    animation: sk-rotate 2.0s infinite linear;
+  }
+  
+  .dot1 {
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    background-color: #f44336;
+    border-radius: 100%;
+    
+    -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+    animation: sk-bounce 2.0s infinite ease-in-out;
+  }
+
+
+  .dot2 {
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    background-color: #689F38;
+    border-radius: 100%;
+    
+    -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+    animation: sk-bounce 2.0s infinite ease-in-out;
+  }
+
+  
+  .dot2 {
+    top: auto;
+    bottom: 0;
+    -webkit-animation-delay: -1.0s;
+    animation-delay: -1.0s;
+  }
+
+
+  
+  @-webkit-keyframes sk-rotate { 100% { -webkit-transform: rotate(360deg) }}
+  @keyframes sk-rotate { 100% { transform: rotate(360deg); -webkit-transform: rotate(360deg) }}
+  
+  @-webkit-keyframes sk-bounce {
+    0%, 100% { -webkit-transform: scale(0.0) }
+    50% { -webkit-transform: scale(1.0) }
+  }
+  
+  @keyframes sk-bounce {
+    0%, 100% { 
+      transform: scale(0.0);
+      -webkit-transform: scale(0.0);
+    } 50% { 
+      transform: scale(1.0);
+      -webkit-transform: scale(1.0);
+    }
+  }
+

@@ -1,0 +1,521 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+      
+       
+}
+
+
+
+
+
+.navbar-fixed nav {
+   
+    height: 90px;
+  
+}
+
+
+/* nav */
+
+nav .nav-wrapper {
+  background-color: white;
+  
+  
+  
+}
+
+.fa-virus{
+    color: #f44336;
+    letter-spacing: 1.5px;
+    font-size: 30px;
+    
+}
+
+#v2{
+    text-transform: lowercase;
+    color: #e53935;
+    font-family: 'nunito_sansbold';
+    font-weight: 900;
+    letter-spacing: 1px;   
+    font-size: 14px;
+    margin-left: -7px;  
+    
+}
+
+
+#title{
+
+   font-family: 'vonique_64bold';
+    margin-top: 26px;    
+    font-size: 23pt;
+    letter-spacing: 1.5px;
+    font-weight: 400;
+    color: rgb(49, 48, 48);
+    text-transform: uppercase;
+    margin-left: 4px;   
+   
+       
+   
+}
+
+
+/* para sa search ito */
+
+
+/* End ng SEARCH*/
+
+/* tabs */
+
+.tabs{  /* pata bottom */
+
+    position: absolute !important;
+    bottom: 0;
+    background-color: white;
+
+   
+ 
+       
+}
+
+
+
+.tabs .indicator {
+    background-color: transparent;
+} /*Color of underline*/
+
+.tabs .tab a.active {
+    background-color: white !important;
+    color: #f44336;
+} /*Background and text color when a tab is active*/
+
+.tabs .tab a { /* kulay pag hinde active */
+    color: #777;
+ 
+}
+/* tabs */
+
+
+.material-icons{
+   margin-top: 5px;
+   font-size: 35px;
+}
+/* panulat na sa katawan */
+
+#world{
+
+    font-family: 'montserratbold';
+    font-weight: 500;
+    letter-spacing: 1.5px;   
+    font-size: 35px;
+    color: #777;
+    text-align: center;
+    margin-top: 65px;
+    text-transform: uppercase;
+
+}
+
+#mesa{
+    margin-top: 20px;
+    margin-left: 5px;
+   
+}
+
+
+
+#kaliwang_sulat {
+
+    font-family: 'montserratbold';
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 900;
+    line-height: 6px;
+    margin-right: -7px;
+    
+   
+    
+    
+  
+
+    
+}
+
+#kaliwang_sulat_uli{
+    font-family: 'montserratbold';   
+    font-size: 16px;
+    line-height: 6px;
+    margin-left: -6px;
+    
+}
+
+.progress{
+    margin-top: 70%;
+    width: 60%;
+    background-color: rgb(201, 200, 200);
+    
+}
+
+.indeterminate {
+    background-color: #f44336 !important;
+}
+
+
+#total{
+    color: #f57f17 ;
+    font-weight: 600;
+    font-size: 22px;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+    
+
+
+}
+
+#rec{
+    color: #689F38;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+}
+
+#d{
+    color: #ff3434;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+}
+
+
+#ac{
+    color: #777;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+}
+
+#today{
+    color: #009688;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+}
+
+
+#plus{
+
+    color: #777;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+    margin-left: 1px;
+
+}
+
+
+
+#time{
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'montserratbold';
+    color: #777;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+#reminder{
+
+    color: #777;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+    text-align: center;
+    
+}
+
+#back{
+    font-weight: 900;
+    margin-right: 30px;
+    margin-left: 10px;
+    color: #777;
+    display: none;
+    
+}
+
+
+#test1{
+    display: none;
+
+}
+
+
+
+
+
+/* start ng css nito */
+
+
+
+.collapsible {
+    border-top: 1px solid #ddd;    
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;    
+    border-radius: 6px;
+    margin-top: 0.5rem;
+    margin-right: 5px;
+    margin-bottom: 0.9px;
+    margin-left: 5px;
+    
+}
+
+
+
+
+ #plag{
+    height: 55px auto;
+    width: 65px ;
+    margin-top: 10px auto;
+    
+    
+}
+
+#count_name{
+    color: #777;
+    text-transform: uppercase; 
+    padding-top: 10px;  
+    margin-left: 20px;
+    text-align: center;
+    font-size: 2.6vh;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+}
+
+
+/* sa loob ng body when click */
+
+
+
+#deyt{
+    color: #777;
+    margin-top: -17px;
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    font-family: 'montserratbold';
+    margin-bottom: 3px;
+
+
+
+}
+
+
+#count_today, #count_aktib{
+
+    font-family: 'montserratsemibold';
+    letter-spacing: 1px;
+    line-height: 3px;
+}
+
+
+
+
+#count_recov, #count_todayd{
+   
+    
+    font-family: 'montserratsemibold';
+    letter-spacing: 1px;
+    line-height: 3px;
+
+
+}
+
+
+#count_total, #count_d{
+    margin-left: 0;
+    font-family: 'montserratsemibold';
+    letter-spacing: 1px;
+    line-height: 3px;
+
+}
+
+#tutal{
+    color: #f57f17 ;
+    letter-spacing: 1px;
+    font-family: 'varela_roundregular';
+    font-weight: 900;
+    line-height: 3px;
+}
+
+#tutalrec{
+    color: #689F38;
+    letter-spacing: 1px;
+    font-family: 'varela_roundregular';
+    font-weight: 900;
+    line-height: 3px;
+
+}
+
+#tutald, #tutaltodayd{
+    color: #ff3434;
+    letter-spacing: 1px;
+    font-family: 'varela_roundregular';
+    font-weight: 900;   
+    line-height: 3px;
+
+}
+
+#tutaltoday, #aktib{
+    color: #777;
+    letter-spacing: 1px;
+    font-family: 'varela_roundregular';
+    font-weight: 900;   
+    line-height: 3px;
+
+}
+
+
+#aktib{
+    color: #009688;
+    letter-spacing: 1px;
+    font-family: 'varela_roundregular';
+    font-weight: 900;   
+    line-height: 3px;
+
+}
+
+
+
+
+
+
+/* animation spin */
+
+
+#wit{
+    font-family: 'montserratbold';
+    font-weight: 900;
+    font-size: 15px;
+    color: #777;  
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .9px;
+
+}
+
+
+.spinner {
+    
+    margin-top: 40%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    text-align: center;
+    
+    -webkit-animation: sk-rotate 2.0s infinite linear;
+    animation: sk-rotate 2.0s infinite linear;
+  }
+  
+  .dot1 {
+    width: 60%;
+    height: 60%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    background-color: #f44336;
+    border-radius: 100%;
+    
+    -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+    animation: sk-bounce 2.0s infinite ease-in-out;
+  }
+
+
+  .dot2 {
+    width: 60%;
+    height: 60%;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    background-color: #689F38;
+    border-radius: 100%;
+    
+    -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+    animation: sk-bounce 2.0s infinite ease-in-out;
+  }
+
+  
+  .dot2 {
+    top: auto;
+    bottom: 0;
+    -webkit-animation-delay: -1.0s;
+    animation-delay: -1.0s;
+  }
+
+
+  
+  @-webkit-keyframes sk-rotate { 100% { -webkit-transform: rotate(360deg) }}
+  @keyframes sk-rotate { 100% { transform: rotate(360deg); -webkit-transform: rotate(360deg) }}
+  
+  @-webkit-keyframes sk-bounce {
+    0%, 100% { -webkit-transform: scale(0.0) }
+    50% { -webkit-transform: scale(1.0) }
+  }
+  
+  @keyframes sk-bounce {
+    0%, 100% { 
+      transform: scale(0.0);
+      -webkit-transform: scale(0.0);
+    } 50% { 
+      transform: scale(1.0);
+      -webkit-transform: scale(1.0);
+    }
+  }
+
+
+/* End ng loader */
+
+
+
+/* pang catch */
+
+#error_icon{
+    font-size: 50px;
+    margin-top: 35%;
+    color: #777;
+}
+
+#error_message{
+    margin-top: 20px;
+    color: #777;
+    font-family: 'montserratsemibold';
+    text-align: center;
+    font-weight: 900;
+    font-size: 18px;
+    letter-spacing: 1.2px;
+
+}
+
+#error_btn{
+    
+    color: white;
+    font-family: 'montserratbold';
+    letter-spacing: 1px;  
+
+
+
+}
