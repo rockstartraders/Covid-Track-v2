@@ -26,7 +26,7 @@ async function splash(){
      
           next_page.click();
 
-  }, 15000)
+  }, 3000)
 } // end ng unang function
 
 
