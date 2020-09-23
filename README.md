@@ -1,6 +1,9 @@
-# Covid Track v2
 
-#### Mobile Application using HTMl, CSS and JS and have it compiled using Apache Cordova after.
+<h1><p align="center">
+Covid Track v2.
+</p></h1>
+
+#### Mobile Application using HTML, CSS and JS and have it compiled using Apache Cordova after.
 <br/>
 
 #### *Thank you to the following:*
@@ -23,13 +26,16 @@
 <br/>
 <br/>
 
-> This is just a personal project of mine if you want to give this a try please feel free to download the .apk file listed via this repository.
+
+<h3 style='color:red'>Note:</h3>
+
+> This is just a personal project of mine, if ever you want to give this a try please feel free to download the .apk file listed via this repository.
 
 
 <br/>
 <br/>
 
-#### **Here is a screenshot of the project I created :**
+#### *Here are the screenshots of the project page I created :*
 <br/>
 <br/>
 
@@ -83,7 +89,7 @@
 <br/>
 <br/>
 
->**The End**
+**" The End "**
 
 
                
