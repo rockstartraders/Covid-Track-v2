@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="covidtrack_window">#ffffff</color>
+    <style name="CovidTrack" parent="android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@color/covidtrack_window</item>
+    </style>
+</resources>
