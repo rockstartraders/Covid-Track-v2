@@ -25,9 +25,10 @@ function onDeviceReady() {
     // Cordova is now initialized. Have fun!
     
     navigator.splashscreen.hide();
-    screen.orientation.lock('portrait');
     StatusBar.overlaysWebView(true);
     StatusBar.styleDefault();
+    StatusBar.isVisible(true);
+    screen.orientation.lock('portrait');    
     window.open = cordova.InAppBrowser.open;
 
 
