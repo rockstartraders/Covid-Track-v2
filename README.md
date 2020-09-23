@@ -33,20 +33,36 @@
 <br/>
 <br/>
 
- <img src="IMG_for_MD/3.jpg" width="250" height="450" /> 
-
-<img src="IMG_for_MD/4.jpg" width="250" height="450" /> 
+<center>
+<p float="left">
+   <img src="IMG_for_MD/3.jpg" width="200" height="450" /> 
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+  <img src="IMG_for_MD/4.jpg" width="200" height="450" />  
+</p>
 
 <br/>
 <br/>
 
-<img src="IMG_for_MD/5.jpg" width="250" height="450" /> 
+<p float="left">
+  <img src="IMG_for_MD/5.jpg" width="200" height="450" /> 
+  &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   &nbsp;
+<img src="IMG_for_MD/2.jpg" width="200" height="450" /> 
+</p>
 
-<img src="IMG_for_MD/2.jpg" width="250" height="450" /> 
 
 <img src="IMG_for_MD/1.jpg" width="250" height="450" /> 
 
-
+<center/>
 
 
 
