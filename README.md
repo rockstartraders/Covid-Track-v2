@@ -3,7 +3,16 @@
 Covid Track v2.
 </p></h1>
 
-#### Mobile Application using HTML, CSS and JS and have it compiled using Apache Cordova after.
+<h3><p align="center">
+Mobile Application using HTML, CSS and JS and have it compiled using Apache Cordova after.
+</p></h3>
+<br/>
+
+<h3 style='color:red'>Note:</h3>
+
+> This is just a personal project of mine, if ever you want to give this a try please feel free to download the .apk file listed via this repository.
+
+
 <br/>
 
 #### *Thank you to the following:*
@@ -24,23 +33,14 @@ Covid Track v2.
 
 <br/>
 <br/>
-<br/>
 
-
-<h3 style='color:red'>Note:</h3>
-
-> This is just a personal project of mine, if ever you want to give this a try please feel free to download the .apk file listed via this repository.
-
-
-<br/>
-<br/>
 
 #### *Here are the screenshots of the project page I created :*
 <br/>
 <br/>
 
-<center>
-<p float="left">
+
+<p align="center">
    <img src="IMG_for_MD/3.jpg" width="250" height="450" /> 
    &nbsp;
    &nbsp;
@@ -54,14 +54,11 @@ Covid Track v2.
    &nbsp;
    &nbsp;
   <img src="IMG_for_MD/4.jpg" width="250" height="450" />  
-</p>
 
-><br/>
 <br/>
 <br/>
 <br/>
 
-<p float="left">
   <img src="IMG_for_MD/5.jpg" width="250" height="450" /> 
    &nbsp;
    &nbsp;
@@ -75,25 +72,21 @@ Covid Track v2.
    &nbsp;
    &nbsp;
 <img src="IMG_for_MD/2.jpg" width="250" height="450" /> 
-</p>
+<p/>
 
 ><br/>
 <br/>
 
+<p align="center">
 <img src="IMG_for_MD/1.jpg" width="250" height="450" /> 
+<p/>
 
-<center/>
 
 
 <br/>
 <br/>
 <br/>
 
-**" The End "**
-
-
-               
-               
                    
 
 
