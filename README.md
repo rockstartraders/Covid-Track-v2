@@ -74,7 +74,7 @@ Mobile Application using HTML, CSS and JS and have it compiled using Apache Cord
 <img src="IMG_for_MD/2.jpg" width="250" height="450" /> 
 <p/>
 
-><br/>
+<br/>
 <br/>
 
 <p align="center">
